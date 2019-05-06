@@ -10,4 +10,4 @@ Subsitute the "NAME_OF_AIRPODS" text to the name of your Airpods.
 
 This code will only work on Macs that have Italian as a View Language
 
-Safety au
+
