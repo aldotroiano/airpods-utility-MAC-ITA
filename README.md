@@ -1,4 +1,4 @@
-1. Copy the code in the "script.md" file and paste it into Script Editor.
+1. Copy the code in the "script.md" file using the RAW button and paste it into Script Editor.
 2. Save the Script as an Application.
 3. Download the Airpods icon from the project repository.
 4. Set the icon of the Application to the Airpods Icon
