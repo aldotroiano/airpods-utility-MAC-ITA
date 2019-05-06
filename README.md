@@ -6,7 +6,7 @@
 
 This Utility is the Italian version of other online Projects. Various bug fixes made to optimize the code.
 
-Subsitute the "NAME_OF_AIRPODS" text to the name of your Airpods.
+Subsitute the "NAME_OF_YOUR_AIRPODS" text to the name of your Airpods.
 
 This code will only work on Macs that have Italian as a View Language
 
