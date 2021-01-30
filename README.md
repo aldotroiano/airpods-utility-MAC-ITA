@@ -1,3 +1,5 @@
+## DEPRECATED on MacOS < 11.0 Big Sur - Compatible with MacOS 10.x
+
 1. Cliccate sul file "script.md".  Cliccate sul pulsante raw in alto a destra e copiate tutto il codice.
 2. Aprite da Spotlight il programma "Script Editor".
 3. Incollate il codice copiato nel programma Script Editor e sostituite "NAME_OF_YOUR_AIRPODS" con il nome preciso delle vostre airpods.
