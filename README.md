@@ -8,11 +8,18 @@
 6. Tasto destro sul file dello script salvato e cliccate su "Ottieni Informazioni"
 7. Trascinate AirPodsIcon.icns sulla preview in alto a destra dell'icona all'interno di Ottieni Informazioni e salvate.
 8. Andate in Preferenze di Sistema > Privacy > Accessibilità e dopo aver sbloccato il lucchetto, consentite a Script Editor, l'applicazione salvata e System Events le permission necessarie. Chiudete il lucchetto.
-9. Enjoy! Per un uso più veloce consiglio l'uso di Spotlight per aprire l'app (CMD + Space).
+9. Per un uso più veloce consiglio l'uso di Spotlight per aprire l'app (CMD + Space).
 
 This Utility is the Italian version of other online Projects. Various bug fixes made to optimize the code.
 
-Subsitute the "NAME_OF_YOUR_AIRPODS" text to the name of your Airpods.
+### Shortcut from Keyboard
+
+1. Aprire Automator su mac
+2. Creare nuova Quick Action
+3. Impostare "no input"
+4. Selezionare Airpods.app da Documenti
+5. Enjoy!
+
 
 This code will only work on Macs that have Italian as a View Language
 
